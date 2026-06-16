@@ -38,9 +38,10 @@
    37  snyk test
    38  snyk auth ----------
 ````
+```
 **  in snyk application dashboard
   Organization Settings
     └── Products
           └── Snyk Code **
-   
+   ```
    39  snyk code test app.py

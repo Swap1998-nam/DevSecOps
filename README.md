@@ -43,5 +43,10 @@
   Organization Settings
     └── Products
           └── Snyk Code **
+
+snyk code test app.py
    ```
-   39  snyk code test app.py
+```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5877e2c5-8386-47b9-8ad5-316f71cb27b8" />
+```
+

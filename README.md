@@ -1,4 +1,5 @@
 # DevSecOps
+```
   1  git clone https://github.com/Swap1998-nam/DevSecOps.git
     2  cd DevSecOps/
     3  ls
@@ -25,7 +26,6 @@
    24  cd ..
    25  mkdir lol
    26  cd lol/
-   27  git clone https://github.com/ManojKRISHNAPPA/DevSecOps.git
    28  ls
    29  cd DevSecOps/
    30  ls
@@ -37,6 +37,7 @@
    36  snyk code test
    37  snyk test
    38  snyk auth ----------
+````
 **  in snyk application dashboard
   Organization Settings
     └── Products

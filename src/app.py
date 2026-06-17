@@ -26,7 +26,7 @@ def user():
     return str(result)
 
 # Vulnerability 3: Hardcoded Secret
-AWS_SECRET_KEY = "AKIA1234567890SECRET"
+AWS_SECRET_KEY = ""
 
 # Vulnerability 4: Unsafe Eval
 @app.route('/calc')

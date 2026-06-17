@@ -49,4 +49,6 @@ snyk code test app.py
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b07b3c4a-0cb1-4577-adb2-f18a921797b7" />
 
+**Talisman push using .talismanrc**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e9f51c8-6060-4c40-9162-fd60593d9728" />
 

@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: src/app.py
+  checksum: 1c3147f4e66dd130e7f983d58ca2c6d812179955d14e59f46aceac7128fdffb6
+- filename: security-files/api.txt
+  checksum: 27878030766a0bca7daedacdf14da4288e9420df6588e3ff277bbb947b6eff72
+- filename: security-files/base64.txt
+  checksum: 360fb835f21e7df98143f42d95368575f7aadad8bea36621a96dbbc3014e9d34

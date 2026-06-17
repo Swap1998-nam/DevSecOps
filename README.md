@@ -49,7 +49,7 @@ snyk code test app.py
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b07b3c4a-0cb1-4577-adb2-f18a921797b7" />
 
-talisman tool
+**Talisman tool**
 ```
 curl https://thoughtworks.github.io/talisman/install.sh > ~/install-talisman.sh
 chmod +x ~/install-talisman.sh

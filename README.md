@@ -58,4 +58,6 @@ before intall we need to go to current project and there we need to intall it to
 ~/install-talisman.sh
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d74f88f-956c-4b31-8384-591c02d983d5" />
+**Talisman push using .talismanrc**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e9f51c8-6060-4c40-9162-fd60593d9728" />
 
